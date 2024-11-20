@@ -2875,13 +2875,13 @@ img {
 }
 
 .testimonail-image-block._02 {
-    background-image: url(/imagess/mama1.jpg), linear-gradient(103deg, #e3edf7, #fff);
+    background-image: url(./imagess/mama1.jpg), linear-gradient(103deg, #e3edf7, #fff);
     background-position: 50% 100%, 0 0;
     background-size: contain, auto
 }
 
 .testimonail-image-block._03 {
-    background-image: url(/imagess/davood.jpg   ), linear-gradient(103deg, #e3edf7, #fff);
+    background-image: url(./imagess/davood.jpg  ), linear-gradient(103deg, #e3edf7, #fff);
     background-position: 0% 100%, 0 0;
     background-size: contain, auto
 }
